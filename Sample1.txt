@@ -7,9 +7,5 @@ Sample1
 
 Text Edited in Master Branch
 
-Modification in Master Branch
-=======
-Text Edit in Developer Branch
 
-Modification in Developer Branch
->>>>>>> developer
+
