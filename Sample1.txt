@@ -1,5 +1,6 @@
 Sample1
 
+<<<<<<< HEAD
 123456477
 
 Text Edited in Master Branch
