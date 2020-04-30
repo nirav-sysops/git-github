@@ -7,5 +7,9 @@ Sample1
 
 Text Edited in Master Branch
 
+<<<<<<< Updated upstream
 test 1111
+=======
+REBASE
+>>>>>>> Stashed changes
 
